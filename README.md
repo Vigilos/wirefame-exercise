@@ -1,2 +1,3 @@
-# wirefame-exercise
-Create a demo wireframe using flexbox
+# Wireframe Demo
+
+This page demonstrates the use of flexbox in a wireframe.
